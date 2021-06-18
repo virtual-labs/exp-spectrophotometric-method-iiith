@@ -1,0 +1,16 @@
+  /home/sravanthi/Music/phase2-labs/mas-iiith/exp-spectrophotometric-method-iiith/experiment:
+  total used in directory 60 available 126693656
+  drwxrwxr-x 4 sravanthi sravanthi 4096 May 10 10:42 .
+  drwxrwxr-x 7 sravanthi sravanthi 4096 May 10 10:24 ..
+  -rw-rw-r-- 1 sravanthi sravanthi 1573 May 10 10:26 aim.md
+  -rw-rw-r-- 1 sravanthi sravanthi 2224 May 10 10:42 assignment.md
+  -rw-rw-r-- 1 sravanthi sravanthi   83 May 10 10:28 experiment-name.md
+  drwxrwxr-x 2 sravanthi sravanthi 4096 May 10 10:24 images
+  -rw-rw-r-- 1 sravanthi sravanthi  134 May 10 10:37 objective.md
+  -rw-rw-r-- 1 sravanthi sravanthi  400 May 10 10:24 posttest.json
+  -rw-rw-r-- 1 sravanthi sravanthi  400 May 10 10:24 pretest.json
+D -rw-rw-r-- 1 sravanthi sravanthi 2271 May 10 10:39 procedure.md
+  -rw-rw-r-- 1 sravanthi sravanthi   10 May 10 10:24 README.md
+  -rw-rw-r-- 1 sravanthi sravanthi   32 May 10 10:24 references.md
+  drwxrwxr-x 5 sravanthi sravanthi 4096 May 10 10:24 simulation
+  -rw-rw-r-- 1 sravanthi sravanthi 6810 May 10 10:37 theory.md

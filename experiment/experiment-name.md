@@ -1,1 +1,1 @@
-## Experiment name
+## pH effects on absorption spectra: pKa determination by spectrophotometric method
