@@ -1,16 +1,20 @@
 If a molecule has an acid/base character, change in the pH of the solution may have an important effect on the absorption spectra of the molecule. The pH or H + ion concentration affects the conjugate acid-base pair chemical equilibriums. Thus pH change in a solution can lead to the change in the number and kinds of species (molecules or ions) present in a solution. Let us take example of methyl orange. Methyl orange is an azo dye (R N=N Rꞌ) (Figure 1) where electrons from N=N double bond and neighboring aryl groups constitute the chromophore that causes yellow color. Methyl orange acts as a weak base and gets protonated in highly acidic solution. The proton binds to one of the nitrogen in the N=N double bond which breaks the double bond. This leads to the electron/bond arrangement in the molecule. Thus, the molecular structure and the chromophore of the standard methyl orange change in acidic medium which give rise to red color in the solution.
 
+<img src="images/docpix1.jpg">
+
 For convenience let us represent methyl orange as "In" and write the above ionic equilibrium as follows:
+
+<img src="images/docpix2.jpg" style="width:50%;height:50%;">
 
 where K <sub>a</sub> is the acid dissociation constant. Acid-base indicators which are weak acids or bases do not undergo complete dissociation and exhibit this kind of dissociation equilibrium. The equilibrium can be driven backward or forward by varying the H <sub>3</sub> O <sup>+</sup> ion concentration in the solution.
 
-In practice, pH and pK a are often used in place of the H <sub>3</sub> O <sup>+</sup> ion concentration and K <sub>a</sub> respectively. Therefore, by taking negative of logarithm, one can write from equation (1),
+In practice, pH and pK <sub>a</sub> are often used in place of the H <sub>3</sub> O <sup>+</sup> ion concentration and K <sub>a</sub> respectively. Therefore, by taking negative of logarithm, one can write from equation (1),
 
 pK <sub>a</sub> = pH – log ([In]/[InH <sup>+</sup> ]) (2)
 
 or, pH = pK <sub>a</sub> + log ([In]/[InH<sup>+</sup>]) (3)
 
-where ‘[ ]’ represents the concentration of the enclosed species. Eq (3) suggests that p K <sub>a</sub> value can be calculated if the concentrations of conjugate acid and base pair at a given pH are known. Mathematically eq. (3) is a straight line equation (y= c <sup>+</sup> mx) with intercept = pK a if pH is plotted against log ([In]/[InH+]). In other words, when log ([In]/[InH<sup>+</sup>]) = 0, i.e., at [In] = [InH<sup>+</sup>], pH = pK a . Thus, pK <sub>a</sub> is conveniently determined graphically by determining the ratio [In]/[InH<sup>+</sup>] as a function pH (Figure 2).
+where ‘[ ]’ represents the concentration of the enclosed species. Eq (3) suggests that p K <sub>a</sub> value can be calculated if the concentrations of conjugate acid and base pair at a given pH are known. Mathematically eq. (3) is a straight line equation (y= c <sup>+</sup> mx) with intercept = pK <sub>a</sub> if pH is plotted against log ([In]/[InH+]). In other words, when log ([In]/[InH<sup>+</sup>]) = 0, i.e., at [In] = [InH<sup>+</sup>], pH = pK a . Thus, pK <sub>a</sub> is conveniently determined graphically by determining the ratio [In]/[InH<sup>+</sup>] as a function pH (Figure 2).
 
 <img src="images/docpix3.jpg">
 
