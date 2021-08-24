@@ -1,4 +1,4 @@
-**Pre-Experiment**
+**Pre-Assignments**
 
 1. Which states (ground vs. excited) of the chromophore for the transitions will have higher dipole moment and hence more solvated?
 2. Why are K <sub>a</sub> (acid dissociation constant) values expressed as pK <sub>a</sub> like the hydrogen concentration in pH? (Hint: power scale because K a values range over many orders of magnitude)
@@ -10,7 +10,7 @@
 8. Find the difference between pK <sub>a</sub> and pH values, when 50% of a drug (which is a weak acid) is ionized.
 
 
-**Post-Experiment**
+**Post-Assignments**
 
 1. Can one use methyl orange indicator for any acid-base titrations? Justify your answer.
 2. What is the origin of color change in methyl orange during the pH change in solution?
