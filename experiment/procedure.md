@@ -15,6 +15,6 @@
 15. Compare the graphically determined pK <sub>a</sub> value with the calculated average pK <sub>a</sub> value.
 16. Determine the acid dissociation constant, K <sub>a</sub> for methyl orange.
 
-<img src="images/docpix4.jpg">
+<img src="images/docpix4.jpg" width="800" height="400">
 
-<img src="images/docpix5.jpg">
+<img src="images/docpix5.jpg" width="800" height="400">
